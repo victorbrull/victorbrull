@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Víctor</p>
+<p align="left">My name is Víctor.</p>
+<p align="left">Welcome to my coding journey!</p>
 
 ###
 
@@ -22,6 +23,8 @@
 ###
 
 <p align="left">📚 I am an undergraduate student in Mathematical Engineering in Data Science at Universitat Pompeu Fabra, Barcelona.</p>
+<p align="left">🏆 Passionate about analyzing sports through data.</p>
+<p align="left">🚀 Always exploring new technologies and sharing my journey through code.</p>
 
 ###
 
